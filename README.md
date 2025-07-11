@@ -2,6 +2,9 @@
 
 Простое ToDo-приложение на SvelteKit с TypeScript, IndexedDB (Dexie) и Tailwind CSS.
 
+Ход разработки:
+https://chatgpt.com/share/68714aa4-60f0-8005-86e8-a7512a01e2c0
+
 ⸻
 
 Установка и запуск
